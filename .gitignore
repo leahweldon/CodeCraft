@@ -48,3 +48,7 @@ my-react-app/
 /instance/database.db
 /backend/instance/
 /backend/instance/database.db
+
+# Ignore bundled Python dependencies and macOS system files
+/backend/lib/
+**/.DS_Store
